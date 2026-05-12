@@ -46,3 +46,5 @@ Este curso apresenta as principais ferramentas usadas no trabalho diário com da
 
 Nome do aluno — [github.com/usuario](https://github.com/usuario)
 
+TESTE TESTE TESTE
+
